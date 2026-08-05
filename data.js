@@ -32,3 +32,10 @@ window.SITE_DATA = {
     { name: "YouTube", url: "https://youtube.com/" }
   ]
 };
+{
+  brand: "Brand D",
+  name: "商品名稱 D",
+  desc: "一句簡短介紹 D",
+  endAt: "2026-09-05",
+  link: "https://yang-0606.github.io/yuki/brand-d/"
+}
